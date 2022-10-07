@@ -5,7 +5,7 @@ public class Main {
         String str1 = "こんにちは";
         char chr1   = 'A';
 
-        System.out.println(num1);
+        System.out.println("num1の値は" + num1 + "です。");
         System.out.println(num2);
         System.out.println(str1);
         System.out.println(chr1);
